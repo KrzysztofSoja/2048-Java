@@ -1,0 +1,3 @@
+1. Poprawiæ klase LogikaGry. Dodaæ dodatkowe funkcje odnoœnie wyniku. Zmieniæ modyfikatory dostêpu.
+2. Przypomnieæ sobie JavaFx. Jaki porz¹dek powinna mieæ klasa obsuguj¹ca grafikê? A jaki klasa obsugujaca klawiature, myszkê?
+3. Przemyœleæ stukturê programu na wyrzszym poziomie abstrakcji.
